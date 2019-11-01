@@ -1,0 +1,2 @@
+# AndroidVideoCallExample
+Use Sinch Library
